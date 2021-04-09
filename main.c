@@ -5,6 +5,7 @@
 
 int main()
 {
+    printf("Hello World !!!\n");
     srand(time(NULL));
     node_t *head = NULL;
 
