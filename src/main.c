@@ -20,5 +20,7 @@ int main()
         printf("%d ", pop(&head));
     }
 
+    printf("Main endded!!!\n");
+
     return 0;
 }
