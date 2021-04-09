@@ -45,7 +45,7 @@ int pop(node_t **head_ref)
 //Prints the list
 void print_list(node_t *head)
 {
-    printf("Printing the list: \n");
+    printf("Printing the list!!!\n");
     for(node_t *temp=head; temp!=NULL; temp=temp->next)
         printf("%d ", temp->val);
     printf("\n\n");

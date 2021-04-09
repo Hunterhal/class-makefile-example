@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define LIST_SIZE 20
+#define LIST_SIZE 30
 
 //This is a simple node with integer value and next pointer
 typedef struct node{
